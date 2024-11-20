@@ -497,7 +497,7 @@ nav ul li a {
 
 nav.active a {
     font-weight: 700;
-    color: red;
+    color: #fff;
     font-family: "Space Grotesk" !important;
     display: block;
     padding: 15px 0;
